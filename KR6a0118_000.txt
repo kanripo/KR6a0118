@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說鴦掘摩經
+#+DATE: 2015-08-30 19:31:54.445792
+#+PROPERTY: JUAN 0
